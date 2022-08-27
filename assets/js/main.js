@@ -13,7 +13,6 @@ function funcionSuma(numero1, numero2) {
     return numero1 + numero2;
 }
 alert("La suma es " + funcionSuma(a, b));
-
 function funcionResta(numero1, numero2) {
     return numero1 - numero2;
 }
